@@ -4,6 +4,10 @@ Hey, I build free tools for creators, because I got tired of every useful app wa
 
 No account, no paywall, no catch. Everything here is open source.
 
+[![Buy me a tea on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20tea-Ko--fi-ff2e7e?logo=kofi&logoColor=white)](https://ko-fi.com/oddlyclevertools)
+
+If one of my tools saved you time, a tea keeps the next one coming.
+
 ### What I've built
 
 | Tool | What it does |
