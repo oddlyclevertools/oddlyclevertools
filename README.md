@@ -15,6 +15,7 @@ If one of my tools saved you time, a tea keeps the next one coming.
 | [**OddlyCleverEditor**](https://github.com/oddlyclevertools/OddlyCleverEditor) | Free captions and 9:16 Shorts cuts that run offline on your own NVIDIA GPU. No watermark. |
 | [**Clearpane**](https://github.com/oddlyclevertools/clearpane) | A small ad and tracker blocker for Chrome. No account, no data collection. |
 | [**OddlyClever Design**](https://github.com/oddlyclevertools/OddlyCleverDesign) | A free design app in your browser for thumbnails, Shorts covers, posters and social posts. Background remover on your own GPU. [Use it now](https://oddlyclevertools.github.io/OddlyCleverDesign/). |
+| [**OddlyClever PDF**](https://github.com/oddlyclevertools/OddlyCleverPDF) | A free PDF editor in your browser, on your phone too. Edit, sign, fill, merge, squash and convert, and nothing gets uploaded. [Use it now](https://oddlyclevertools.github.io/OddlyCleverPDF/). |
 
 ### See them work
 
